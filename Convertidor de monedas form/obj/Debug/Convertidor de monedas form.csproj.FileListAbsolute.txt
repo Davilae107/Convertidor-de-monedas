@@ -1,0 +1,11 @@
+C:\Users\davil\OneDrive\Escritorio\C#\Convertidor de monedas form\Convertidor de monedas form\bin\Debug\Convertidor de monedas form.exe.config
+C:\Users\davil\OneDrive\Escritorio\C#\Convertidor de monedas form\Convertidor de monedas form\bin\Debug\Convertidor de monedas form.exe
+C:\Users\davil\OneDrive\Escritorio\C#\Convertidor de monedas form\Convertidor de monedas form\bin\Debug\Convertidor de monedas form.pdb
+C:\Users\davil\OneDrive\Escritorio\C#\Convertidor de monedas form\Convertidor de monedas form\obj\Debug\Convertidor de monedas form.csproj.AssemblyReference.cache
+C:\Users\davil\OneDrive\Escritorio\C#\Convertidor de monedas form\Convertidor de monedas form\obj\Debug\Convertidor de monedas form.csproj.SuggestedBindingRedirects.cache
+C:\Users\davil\OneDrive\Escritorio\C#\Convertidor de monedas form\Convertidor de monedas form\obj\Debug\Convertidor_de_monedas_form.Form1.resources
+C:\Users\davil\OneDrive\Escritorio\C#\Convertidor de monedas form\Convertidor de monedas form\obj\Debug\Convertidor_de_monedas_form.Properties.Resources.resources
+C:\Users\davil\OneDrive\Escritorio\C#\Convertidor de monedas form\Convertidor de monedas form\obj\Debug\Convertidor de monedas form.csproj.GenerateResource.cache
+C:\Users\davil\OneDrive\Escritorio\C#\Convertidor de monedas form\Convertidor de monedas form\obj\Debug\Convertidor de monedas form.csproj.CoreCompileInputs.cache
+C:\Users\davil\OneDrive\Escritorio\C#\Convertidor de monedas form\Convertidor de monedas form\obj\Debug\Convertidor de monedas form.exe
+C:\Users\davil\OneDrive\Escritorio\C#\Convertidor de monedas form\Convertidor de monedas form\obj\Debug\Convertidor de monedas form.pdb
